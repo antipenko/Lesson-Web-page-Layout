@@ -51,3 +51,16 @@
 		}
 	}
 }
+
+.la-title {
+	color: tomato;
+	text-align: left;
+	&__name {
+		max-width: 450px;
+
+	}
+}
+
+.la-video {
+	padding-top: 20px;
+}
